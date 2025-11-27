@@ -71,10 +71,6 @@ python nnunet_evaluate.py
 
 ## 📝 HW5 專案報告 (Project Report)
 
-### 0. 團隊成員 (Team Member)
-*   [學校] [學號] [姓名]
-*   (請自行填寫)
-
 ### 1. 摘要 (Abstract)
 
 本研究旨在解決心臟 MRI 影像的自動化分割問題，目標是精確分割左心室 (LV)、右心室 (RV) 及心肌 (Myocardium)。我們採用了基於 nnU-Net 框架的集成學習策略。初期實驗顯示單一模型難以同時兼顧所有結構的分割精度，特別是右心室的複雜形狀。因此，我們提出了一種結合 **2D nnU-Net** 與 **3D Low-resolution nnU-Net** 的集成方法。
