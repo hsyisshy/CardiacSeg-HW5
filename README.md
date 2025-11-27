@@ -72,8 +72,7 @@ python nnunet_evaluate.py
 ## 📝 HW5 專案報告 (Project Report)
 
 ### 0. 團隊成員 (Team Member)
-*   [學校] [學號] [姓名]
-*   (請自行填寫)
+*   長庚大學王泰力 中央大學蕭善彧 台灣大學歐庭芳 清華大學張哲瑋
 
 ### 1. 摘要 (Abstract)
 
